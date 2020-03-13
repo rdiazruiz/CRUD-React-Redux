@@ -1,0 +1,19 @@
+{
+  "products": [
+    {
+      "name": "Fanta Naranja",
+      "price": "33",
+      "id": 1
+    },
+    {
+      "name": "Coca-Cola",
+      "price": "12",
+      "id": 2
+    },
+    {
+      "name": "Cerveza",
+      "price": "1",
+      "id": 3
+    }
+  ]
+}
